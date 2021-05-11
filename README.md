@@ -2,5 +2,5 @@
 
 #### 🎉 特别赞助
 
-[![JetBrains](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//90419395-14409500-e0e9-11ea-8b3b-ade4589dca84.png)](https://www.jetbrains.com/?from=Kratos %3a Rebirth)
+[![JetBrains](https://gitee.com/bai_xiao_fei/picture/raw/master/pic//90419395-14409500-e0e9-11ea-8b3b-ade4589dca84.png)](https://www.jetbrains.com/)
 
